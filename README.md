@@ -1,0 +1,1 @@
+The Sankey diagram above visually represents the Material Flow Analysis (MFA) of a lead-acid battery (LAB) recycling process, broken down into two key stages: Smelting and Refining. Each flow represents the mass transfer (in metric tons per month) of materials and by-products within the system. The values shown on the flows enhance interpretability and traceability.
